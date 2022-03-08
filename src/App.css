@@ -1,0 +1,15 @@
+body {
+  margin: 30px;
+  background-color: #f2eadf ;
+}
+
+.container {
+  background-color: #9788ac;
+  height: 720px;
+  width: 720px;
+  margin: auto;
+  border-radius: 20px;
+  box-shadow: 1px 1px 3px black;
+}
+
+
